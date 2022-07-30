@@ -1,2 +1,2 @@
-# React6
+# React2
 Created with CodeSandbox
